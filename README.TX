@@ -1,0 +1,9 @@
+Name: Haissam Adam , ID # 7C7972
+Course : Introduction to Python Programming , Number : 206
+Module Name: Module 1 , Hello World 
+Describtion of assignment 1, Regarding hello.py, I just Created two strings variables , one is Greeting and the other is name. 
+Then , I assignment them values and used print method to get the output.
+
+
+Second part, regarding Due_date, there are many to write this program, so i just imported pyhton library to import time and datetime.\
+then I used built in methods and print the output.
