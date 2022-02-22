@@ -1,11 +1,13 @@
 Name: Haissam Adam , ID # 7C7972
 Course : Introduction to Python Programming , Number : 206
-Module Name: Module 3 
-Describtion of assignment 3
-the part one of this assignment basically using Luhn's Algorithm to check the validity of credit card number or social security number and so on...
-creating a particular variable and assigned inntial value as 0 ,  created a method called cardcheck()  so that i can call the method to execute the output by prompting conditional statement. furthermore, utilizing, bool, for loop and range method aided me to check the number of digit.  particularly , using checksum as a variable in the conditional clause to prompt user for input and get the output  values
+Module Name: Module 4
+Describtion of assignment 4
+i Calculated the net force (Fx, Fy) at the current time t acting on that particle using Newton's law of gravitation and the principle of superposition.
+also computed its acceleration (ax, ay) at time t using the net force computed in Step 1 and Newton's second law of motion: ax = Fx / m, ay = Fy / m.
+Calculate its new velocity (vx, vy) at the next time step by using the acceleration computed in Step 2a and the velocity from the old time step: Assuming the acceleration remains constant in this interval, the new velocity is (vx + Δt ax, vy + Δt ay).
+i computed its new position (rx, ry) at time t + Δt by using the velocity computed in Step 2b and its old position at time t, but still I'm not getting the right answer and incomplete.
+there are bugs i could not able to solve that's why i took a longer to submit the assignment. i will redo  if it's  possible 
+i 
 
 
 
-Second part, 
-again implementing the Luhn's algorithm to write a simple code that can be able to verify the number credit card whether is valid or not. as we learned in the lecture how to compute the this Luhn's algorithm. the driver able to predict whether the credit card number is correct or not. the driver will prompt the user for input , then it will verify for you whether the digit number is valid or invalid. 
